@@ -4,7 +4,7 @@
 
 **Electrical & Computer Engineering student • Software & Embedded Systems Developer**
 
-*Faculty of Technical Sciences (FTN), University of Novi Sad — E1: Electrical, Electronics & Telecommunications, Microcomputer Electronics*
+*Faculty of Technical Sciences (FTN), University of Novi Sad — E1: Power, Electronics & Telecommunications, Microcomputer Electronics*
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm pursuing a degree in Electrical and Computer Engineering (E1 — Electrical, Electronics & Telecommunications, Microcomputer Electronics track), with embedded systems as my intended future specialization. Alongside that, I build functional mobile and web applications — I like working across the full stack of a problem, from clean, usable software down to the hardware architecture it can eventually run on. Outside of engineering, I care a lot about how things look and feel, which pulls me toward graphic design, UI/UX, and photography.
+I'm pursuing a degree in Electrical and Computer Engineering (E1 — Power, Electronics & Telecommunications, Microcomputer Electronics track), with embedded systems as my intended future specialization. Alongside that, I build functional mobile and web applications — I like working across the full stack of a problem, from clean, usable software down to the hardware architecture it can eventually run on. Outside of engineering, I care a lot about how things look and feel, which pulls me toward graphic design, UI/UX, and photography.
 
 ---
 
@@ -41,6 +41,8 @@ I'm pursuing a degree in Electrical and Computer Engineering (E1 — Electrical,
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Hardware & Embedded**
 
