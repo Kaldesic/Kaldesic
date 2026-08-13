@@ -48,6 +48,7 @@ I'm pursuing a degree in Electrical and Computer Engineering (E1 — Power, Elec
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR%20%2F%20ATmega328P-A22846?style=flat-square)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/System_Architecture-333333?style=flat-square)
 
 ---
